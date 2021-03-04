@@ -5,6 +5,7 @@ I created this web application in 7 hours thanks to Traversy and his incredible 
 Tools I used for the job:
 - VS Code
 - Git
+- Bash
 - HTML5
 - CSS3
 - Express
